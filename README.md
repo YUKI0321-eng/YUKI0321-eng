@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1>Hi there 👋 I'm Yuki.</h1>
+<p>
+  I am a third year university student who major in aerospace engineering.<br>
+  In the future I want to be a great engineer. <br>
+  I'll record my code study path here.<br>
 
-<!--
-**YUKI0321-eng/YUKI0321-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  私は航空宇宙工学を専攻する大学3年生です．<br>
+  将来は優秀なエンジニアになりたいと思っています．<br>
+  ここにコードの学習記録を残していきます．
+</p>
 
-Here are some ideas to get you started:
+<h1>What I try now </h1> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Real flying bloom Project🧹</h2>　
+<h2>空飛ぶほうきプロジェクト</h2>
+I will participate the glider championship tournament with a unique one.<br>
+The pourpose of the project is "make children interested in engineerng"<br>
+
+空飛ぶほうきでグライダー大会に出場します<br>
+プロジェクトの目的は子供たちがものづくりに興味を持つようにすることです
+ 
+<h2>study in India🍛</h2>
+<h2>インド留学</h2>
+I am going to study at IIT madras for 2eeks.<br>
+I will visit reserch center in India <br>
+
+2週間インド工科大マドラス校で学んできます<br>
+インドの研究機関を見学する予定です
+
